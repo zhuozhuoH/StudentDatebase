@@ -1,0 +1,11 @@
+﻿StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_store_result
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_errno
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_real_connect
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_options
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_close
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_free_result
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_query
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_fetch_row
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_init
+StudentDataBase.obj : error LNK2001: 无法解析的外部符号 mysql_error
+C:\Users\zhuo\Desktop\Code\C++\StudentDataBase\x64\Release\StudentDataBase.exe : fatal error LNK1120: 10 个无法解析的外部命令
